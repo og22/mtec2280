@@ -4,11 +4,11 @@ int[] y = new int[num];
 
 void setup() { 
   size(500, 500);
-  fill(255, 102);
+  fill(255);
 }
 
 void draw() {
-  background(255);
+  //background(255);
   // Shift the values to the right
   for (int i = num-1; i > 0; i--) {
     x[i] = x[i-1];
@@ -31,16 +31,17 @@ void keyPressed() {
   println(key);
   
   if(key == 'a') {
-    strokeWeight(10);
+    strokeWeight(5);
     stroke(125,36,165);
-  
+    fill(random(255),random(255),random(255)); 
   
   }
 // if the key that is pressed is A then...
     if(key == 's') {
       //...set the stoke weight to 1
-    strokeWeight(10);
+    strokeWeight(5);
     stroke(236,166,122);
+    fill(random(255),random(255),random(255));
    
   }
 }
