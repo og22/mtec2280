@@ -5,7 +5,7 @@ int blinkDelay = 0;
 
 
 void setup() {
-  pinMode(8,OUTPUT);
+  pinMode(5,OUTPUT);
   //pinMode,
   //8 is the selected digital pin to be used (location)
   //output is to send elctricty out
