@@ -1,5 +1,6 @@
-#Project Title: HIGH FIVE ROBOT ARM 
-#Video: https://www.youtube.com/watch?v=lzHVLNFwgE8&feature=youtu.be
+#Project Title: HIGH FIVE ROBOT ARM
+ 
+Video: https://www.youtube.com/watch?v=lzHVLNFwgE8&feature=youtu.be
 Getting Started: Hardware: 1 - Arduino Uno Board; 2 - Servo motors; 1 – Painted Cardboard hand; 1 -  Distance IR Sensor; Wires; Metal Links for the arm; Platform to secure your arm.
 Software: Install Arduino from arduino.cc and include Servo library. The code that was used is attached to the folder.
 1.	Connect servo motors to ground, 5V, and digital pins, 6 and 7.
