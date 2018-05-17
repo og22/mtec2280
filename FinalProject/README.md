@@ -9,8 +9,8 @@
 \deftab720
 \pard\pardeftab720\ri0\sb100\sa100\partightenfactor0
 
-\f0\fs28 \cf0 #  Project Title: HIGH FIVE ROBOT ARM \
-# Video: {\field{\*\fldinst{HYPERLINK "https://www.youtube.com/watch?v=lzHVLNFwgE8&feature=youtu.be"}}{\fldrslt \cf2 \ul \ulc2 https://www.youtube.com/watch?v=lzHVLNFwgE8&feature=youtu.be}}\
+\f0\fs28 \cf0 # Project Title: HIGH FIVE ROBOT ARM  \
+Video: {\field{\*\fldinst{HYPERLINK "https://www.youtube.com/watch?v=lzHVLNFwgE8&feature=youtu.be"}}{\fldrslt \cf2 \ul \ulc2 https://www.youtube.com/watch?v=lzHVLNFwgE8&feature=youtu.be}}\
 Getting Started: Hardware: 1 - Arduino Uno Board; 2 - Servo motors; 1 \'96 Painted Cardboard hand; 1 -  Distance IR Sensor; Wires; Metal Links for the arm; Platform to secure your arm.\
 Software: Install Arduino from arduino.cc and include Servo library. The code that was used is attached to the folder.\
 \pard\tx720\pardeftab720\li720\fi-360\ri0\sb100\sa100\partightenfactor0
